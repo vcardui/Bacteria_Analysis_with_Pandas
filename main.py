@@ -7,8 +7,8 @@
 # | www.carduitech.com/license/
 # +----------------------------------------------------------------------------+
 # | Author.......: Vanessa Reteguín <vanessa@reteguin.com>
-# | First release: March 9, 2026
-# | Last update..: March 9, 2026
+# | First release: March 9th, 2026
+# | Last update..: March 9th, 2026
 # | WhatIs.......: Bacteria Analysis with Pandas - Main
 # +----------------------------------------------------------------------------++
 # ------------------------- Instructions -----------------------
